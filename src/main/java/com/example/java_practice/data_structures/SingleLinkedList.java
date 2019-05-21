@@ -1,7 +1,5 @@
 package com.example.java_practice.data_structures;
 
-import java.util.LinkedList;
-
 public class SingleLinkedList {
 
     Node root;
